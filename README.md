@@ -7,3 +7,5 @@ Simulation file is uploaded to drive link https://drive.google.com/drive/u/0/fol
 
 
 Figures that shown in the report are also added to GitHub.
+
+Calculations can be found on Analytical_Calculations.m
